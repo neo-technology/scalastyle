@@ -4,7 +4,7 @@ name := "scalastyle"
 
 organization := "org.neo4j"
 
-scalaVersion := "2.10.7"
+scalaVersion := "2.11.12"
 
 scalacOptions ++= Seq("-deprecation", "-feature")
 
