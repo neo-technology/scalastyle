@@ -2,7 +2,7 @@ import AssemblyKeys._
 
 name := "scalastyle"
 
-organization := "org.scalastyle"
+organization := "org.neo4j"
 
 scalaVersion := "2.10.7"
 
